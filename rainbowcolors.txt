@@ -1,2 +1,3 @@
 Rojo es el primer color del arcoiris.
 Naranja es el segundo color del arcoiris.
+Amarillo es el tercer color del arcoiris.
